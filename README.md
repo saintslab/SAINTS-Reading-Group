@@ -10,12 +10,17 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 ---
 ## Upcoming Meetings
 
-### Meeting-33: 21/05/2025
-
-* [Pedram Bakhtiarifard](https://scholar.google.com/citations?user=wnOiOHoAAAAJ&hl=en&oi=ao) will present. 
-* [Paper]()
+### Meeting-34: 04/06/2025
+* [Bob Pepin](https://scholar.google.com/citations?user=w7gb0Q4AAAAJ&hl=en) will present _The Power of Random Features and the Limits of Distribution-Free Gradient Descent_ (Karchmer & Malach. 2025).
+* [Paper](https://arxiv.org/abs/2505.10423)
+  
 ---- 
 ## Past Meetings
+
+### Meeting-33: 21/05/2025
+
+* [Pedram Bakhtiarifard](https://scholar.google.com/citations?user=wnOiOHoAAAAJ&hl=en&oi=ao) presented _NoProp: Training Neural Networks without Back-propagation or Forward-propagation_ Li et al. (2025)
+* [Paper](https://arxiv.org/abs/2503.24322)
 
 ### Meeting 32: 07/05/2025
 * [María González Gutiérrez](tbd) presented their own work _System-oriented AI energy efficiency: a step further from the life-cycle_ (2025).
