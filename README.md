@@ -10,12 +10,30 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 ---
 ## Upcoming Meetings
 
-### Meeting-34: 04/06/2025
-* [Bob Pepin](https://scholar.google.com/citations?user=w7gb0Q4AAAAJ&hl=en) will present _The Power of Random Features and the Limits of Distribution-Free Gradient Descent_ (Karchmer & Malach. 2025).
-* [Paper](https://arxiv.org/abs/2505.10423)
   
 ---- 
 ## Past Meetings
+
+### Meeting-39: 19/11/2025
+* [Gudrun Fjola Gudmundsdottir](https://orbit.dtu.dk/en/persons/gudrun-fjola-gudmundsdottir/) presented on _Environmental impact of an optical fibre network in Sweden_
+  
+### Meeting-38: 09/11/2025
+* [Samuel Matthisen](https://samuel.nihil.ws/) presented on _Towards uncertainty- and geometry-aware unsupervised learning_
+
+### Meeting-37: 07/11/2025
+* [Pedram Bakhtiarifard]() presented _Bridging Kolmogorov Complexity and Deep Learning: Asymptotically Optimal Description Length Objectives for Transformers_ (Shaw et al.)
+* [Paper](https://arxiv.org/abs/2509.22445)
+
+### Meeting-36: 22/10/2025
+* [Eduardo Yuji Sakabe]([https://smair.github.io/](https://scholar.google.com/citations?user=ioZ2DFIAAAAJ&hl=en&oi=sra)) presented _Binarized Neural Networks Converge Toward Algorithmic Simplicity: Empirical Support for the Learning-as-Compression Hypothesis_ (Sakabe et al.)
+* [Paper](https://arxiv.org/html/2505.20646v1)
+  
+### Meeting-35: 01/10/2025
+* [Sebastian Mair](https://smair.github.io/) presented on _Learning from less data_
+  
+### Meeting-34: 04/06/2025
+* [Bob Pepin](https://scholar.google.com/citations?user=w7gb0Q4AAAAJ&hl=en) presented _The Power of Random Features and the Limits of Distribution-Free Gradient Descent_ (Karchmer & Malach. 2025).
+* [Paper](https://arxiv.org/abs/2505.10423)
 
 ### Meeting-33: 21/05/2025
 
