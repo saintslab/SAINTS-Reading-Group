@@ -10,6 +10,10 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 ---
 ## Upcoming Meetings
 
+### Meeting-40: 19/03/2026
+* [Sophia N. Wilson](https://sophiawilson18.github.io/) will present _From Entropy to Epiplexity: Rethinking Information for Computationally Bounded Intelligence_
+* [Paper](https://arxiv.org/abs/2601.03220)
+
   
 ---- 
 ## Past Meetings
