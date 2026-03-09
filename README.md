@@ -1,4 +1,4 @@
-# Sustainable Machine Learning Reading Group
+# Sustainable Artificial Intelligence for Sciences (SAINTS) Reading Group
 Reading group on Sustainable Machine Learning and ICT. We discuss papers every other week, usually on Wednesdays at 3.30PM CET. If interested reach out to Raghav. 
 
 ## Table of Contents
