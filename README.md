@@ -10,13 +10,21 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 ---
 ## Upcoming Meetings
 
-### Meeting-40: 19/03/2026
-* [Sophia N. Wilson](https://sophiawilson18.github.io/) will present _From Entropy to Epiplexity: Rethinking Information for Computationally Bounded Intelligence_
-* [Paper](https://arxiv.org/abs/2601.03220)
+### Meeting-42: 30/04/2026
+* [Lasse Abildhauge Christensen](https://www.linkedin.com/in/lasse-abildhauge-christensen-1695882b5/) and [Jakob Frederik Ahlberg](https://www.linkedin.com/in/jakob-ahlberg-50ba47248/) will present a paper TBA.
+  
+
+### Meeting-41: 16/04/2026
+* [Manuel Wegmann](https://scholar.google.com/citations?user=pvdGyfoAAAAJ&hl=de) will present _Synergistic Self-supervised and Quantization Learning_
+* [Paper](statics.teams.cdn.office.net/evergreen-assets/safelinks/2/atp-safelinks.html)
 
   
 ---- 
 ## Past Meetings
+
+### Meeting-40: 19/03/2026
+* [Sophia N. Wilson](https://sophiawilson18.github.io/) will present _From Entropy to Epiplexity: Rethinking Information for Computationally Bounded Intelligence_
+* [Paper](https://arxiv.org/abs/2601.03220)
 
 ### Meeting-39: 19/11/2025
 * [Gudrun Fjola Gudmundsdottir](https://orbit.dtu.dk/en/persons/gudrun-fjola-gudmundsdottir/) presented on _Environmental impact of an optical fibre network in Sweden_
