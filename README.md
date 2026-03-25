@@ -16,7 +16,7 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 
 ### Meeting-41: 16/04/2026
 * [Manuel Wegmann](https://scholar.google.com/citations?user=pvdGyfoAAAAJ&hl=de) will present _Synergistic Self-supervised and Quantization Learning_
-* [Paper](statics.teams.cdn.office.net/evergreen-assets/safelinks/2/atp-safelinks.html)
+* [Paper](https://link.springer.com/chapter/10.1007/978-3-031-20056-4_34)
 
   
 ---- 
