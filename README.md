@@ -1,5 +1,5 @@
 # Sustainable Artificial Intelligence for Sciences (SAINTS) Reading Group
-Reading group on Sustainable Machine Learning and ICT. We discuss papers every other week, usually on Thursdays at 11.00AM CET. If interested reach out to Raghav on raghav@di.ku.dk or Sophia on sophia.wilson@di.ku.dk. 
+Reading group on Sustainable Machine Learning and ICT. We discuss papers every other week, usually on Thursdays at 11.00AM CET. If interested reach out to Raghav (raghav@di.ku.dk) or Sophia (sophia.wilson@di.ku.dk). 
 
 ## Table of Contents
 1. [Upcoming Meetings](#upcoming-meetings)
