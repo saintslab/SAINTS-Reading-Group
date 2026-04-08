@@ -11,7 +11,8 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 ## Upcoming Meetings
 
 ### Meeting-42: 30/04/2026
-* [Lasse Abildhauge Christensen](https://www.linkedin.com/in/lasse-abildhauge-christensen-1695882b5/) and [Jakob Frederik Ahlberg](https://www.linkedin.com/in/jakob-ahlberg-50ba47248/) will present a paper TBA.
+* [Lasse Abildhauge Christensen](https://www.linkedin.com/in/lasse-abildhauge-christensen-1695882b5/) and [Jakob Frederik Ahlberg](https://www.linkedin.com/in/jakob-ahlberg-50ba47248/) will present _Can Compressed LLMs Truly Act? An Empirical Evaluation of Agentic Capabilities in LLM Compression_
+* [Paper](https://icml.cc/virtual/2025/poster/43871)
   
 
 ### Meeting-41: 16/04/2026
