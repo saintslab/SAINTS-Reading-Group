@@ -12,7 +12,7 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 
 ### Meeting-42: 30/04/2026
 * [Tong Chen](https://scholar.google.com/citations?user=KArfuYIAAAAJ&hl=en) will present _Deep Support Vectors_
-* [Paper]([https://icml.cc/virtual/2025/poster/43871](https://arxiv.org/abs/2403.17329))
+* [Paper](https://arxiv.org/abs/2403.17329)
   
 
 ### Meeting-41: 16/04/2026
