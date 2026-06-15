@@ -10,12 +10,13 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 ---
 ## Upcoming Meetings
 
-### Meeting-44: 11/06/2026
-* [Taniya Kapoor](https://scholar.google.com/citations?hl=en&user=aa6HC8MAAAAJ&view_op=list_works) will present _Beyond accuracy: EcoL2 metric for sustainable neural PDE solvers_
-* [Paper](https://arxiv.org/abs/2505.12556)
   
 ---- 
 ## Past Meetings
+
+### Meeting-44: 11/06/2026
+* [Taniya Kapoor](https://scholar.google.com/citations?hl=en&user=aa6HC8MAAAAJ&view_op=list_works) will present _Beyond accuracy: EcoL2 metric for sustainable neural PDE solvers_
+* [Paper](https://arxiv.org/abs/2505.12556)
 
 ### Meeting-43: 28/05/2026
 * [Pengfei Li](https://scholar.google.com/citations?user=irA8gqoAAAAJ&hl=en&oi=sra) presented _Making AI Less Thirsty_
