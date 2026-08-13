@@ -10,6 +10,7 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 ---
 ## Upcoming Meetings
 
+### Meeting-45: 20/08/2026
 * [Sophia N. Wilson](https://sophiawilson18.github.io/) will present _Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data_
 * [Paper](https://arxiv.org/abs/2607.11883)
 
