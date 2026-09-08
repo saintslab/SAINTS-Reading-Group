@@ -17,9 +17,9 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 * [Rwiddhi Chakraborty](https://rwchakra.com/) will present _Exploring and Exploiting Stability in Latent Flow Matching_
 * [Paper](https://arxiv.org/abs/2605.08398)
 
-### Meeting-46: 03/09/2026
-* [Mikkel Dahl](https://saintslab.github.io/people/mikkel/) will present _Bayesian Bits: Unifying Quantization and Pruning_
-* [Paper](https://dl.acm.org/doi/10.5555/3495724.3496206)
+### Meeting-46: 04/09/2026
+* [Mikkel Dahl](https://saintslab.github.io/people/mikkel/) will present _AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration_
+* [Paper](https://arxiv.org/abs/2306.00978)
 
 ---- 
 ## Past Meetings
