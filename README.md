@@ -11,7 +11,8 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 ## Upcoming Meetings
 
 ### Meeting-48: 01/10/2026
-* [Kristoffer Stensbo-Smidt](https://prior.info/) will present a paper TBD.
+* [Kristoffer Stensbo-Smidt](https://prior.info/) will present _Bayesian Compression for Deep Learning_
+* [Paper][https://proceedings.neurips.cc/paper/2017/hash/69d1fc78dbda242c43ad6590368912d4-Abstract.html] 
 
 ---
 ## Past Meetings
