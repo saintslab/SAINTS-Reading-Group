@@ -13,16 +13,16 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 ### Meeting-48: 01/10/2026
 * [Kristoffer Stensbo-Smidt](https://prior.info/) will present a paper TBD.
 
+---
+## Past Meetings
+
 ### Meeting-47: 17/09/2026
-* [Rwiddhi Chakraborty](https://rwchakra.com/) will present _Exploring and Exploiting Stability in Latent Flow Matching_
+* [Rwiddhi Chakraborty](https://rwchakra.com/) presented _Exploring and Exploiting Stability in Latent Flow Matching_
 * [Paper](https://arxiv.org/abs/2605.08398)
 
 ### Meeting-46: 04/09/2026
-* [Mikkel Dahl](https://saintslab.github.io/people/mikkel/) will present _AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration_
+* [Mikkel Dahl](https://saintslab.github.io/people/mikkel/) presented _AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration_
 * [Paper](https://arxiv.org/abs/2306.00978)
-
----- 
-## Past Meetings
 
 ### Meeting-45: 20/08/2026
 * [Sophia N. Wilson](https://sophiawilson18.github.io/) presented _Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data_
