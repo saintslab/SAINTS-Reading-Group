@@ -1,5 +1,5 @@
 # Sustainable Artificial Intelligence for Sciences (SAINTS) Reading Group
-Reading group on Sustainable Machine Learning and ICT. We discuss papers every other week, usually on Thursdays at 11.00AM CET. If interested reach out to Raghav (raghav@di.ku.dk) or Sophia (sophia.wilson@di.ku.dk). 
+Reading group on Sustainable Machine Learning and ICT. We discuss papers every other week, usually on Thursdays at 11.00AM CET. If interested reach out to Raghav (raghav@di.ku.dk), Sophia (sophia.wilson@di.ku.dk), or Pedram (pba@di.ku.dk).
 
 ## Table of Contents
 1. [Upcoming Meetings](#upcoming-meetings)
@@ -10,7 +10,9 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 ---
 ## Upcoming Meetings
 
-
+### Meeting-49: 28/10/2026
+* [Tong Chen](https://scholar.google.com/citations?user=KArfuYIAAAAJ&hl=en) presented _Beyond neural scaling laws: beating power law scaling via data pruning_
+* [Paper](https://arxiv.org/abs/2206.14486)
 
 ---
 ## Past Meetings
